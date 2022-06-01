@@ -25,4 +25,3 @@
 <a href="https://github.com/mdodsworth">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
-<hr/>
