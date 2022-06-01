@@ -1,25 +1,11 @@
-<a href="https://github.com/mdodsworth">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/mdodsworth">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/mdodsworth">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-
-<a href="https://github.com/mdodsworth">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<a href="https://github.com/mdodsworth">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/mdodsworth">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/mdodsworth">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+![header](./header.svg)
+---
+![repositories](./repositories.svg)
+![activity](./acti_comm.svg)
+---
+![calendar](./iso_calender.svg)
+![issues](./issue_pr_lang.svg)
+---
+![habits](./github-habits.svg)
+![achievements](./achievements.svg)
+---
