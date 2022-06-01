@@ -1,25 +1,28 @@
 <a href="https://github.com/mdodsworth">
-  <img src="./header.svg" />
+  <img align="center" width="49%" src="./header.svg" />
 </a>
-<br/>
+<hr/>
 <a href="https://github.com/mdodsworth">
-  <img src="./repositories.svg" />
+  <img align="center" width="49%" src="./repositories.svg" />
 </a>
 <a href="https://github.com/mdodsworth">
-  <img src="./acti_comm.svg" />
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+<hr/>
+
+<a href="https://github.com/mdodsworth">
+  <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
 
 <a href="https://github.com/mdodsworth">
-  <img src="./iso_calender.svg" />
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
+<hr/>
 
 <a href="https://github.com/mdodsworth">
-    <img src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/mdodsworth">
-  <img src="./github-habits.svg" />
+  <img align="center" width="49%" src="./github-habits.svg" />
 </a>
 <a href="https://github.com/mdodsworth">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+<hr/>
